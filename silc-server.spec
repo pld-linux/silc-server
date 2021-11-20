@@ -3,7 +3,7 @@ Summary:	Secure Internet Live Conferencing server
 Summary(pl.UTF-8):	Serwer SILC (Secure Internet Live Conferencing)
 Name:		silc-server
 Version:	1.1.19
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Networking/Daemons
 #Source0Download: http://silcnet.org/server.html
